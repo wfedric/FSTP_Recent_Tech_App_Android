@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AT Logger</string>
+    <string name="button_start_text">Start Logger</string>
+    <string name="button_stop_text">Stop Logger</string>
+    <string name="mastec">Mastec Advanced Technologies</string>
+    <string name="placeholder_image">Placeholder Image</string>
+    <string name="run_toast">CODE HAS RUN</string>
+    <string name="firstRun">App has started, no code has run yet.</string>
+    <string name="stop_code">Code has Stopped</string>
+    <string name="no_file">No VALID FSTP Logs Present!</string>
+    <string name="makeSound">make sound</string>
+
+
+</resources>
